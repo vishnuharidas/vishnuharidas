@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Vishnu here. A techie from Trivandrum. I do Kotlin and Flutter at [QBurst](https://qburst.com/). Sometimes I write on my [blog](https://iamvishnu.com/) something that I find interesting.
+Vishnu here. A techie from Trivandrum. 
+
+I do Kotlin and Flutter at [QBurst](https://qburst.com/). Sometimes I write on my [blog](https://iamvishnu.com/) something that I find interesting.
+
 
 <!--
 **vishnuharidas/vishnuharidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
