@@ -14,7 +14,7 @@ Here are a few things that I built out of passion:
     * See it in action: [utf8-playground.netlify.app](https://utf8-playground.netlify.app/).
     * Also read my popular post on why [UTF-8 is a Brilliant Design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
 
- * [**Inkgit🫟**](https://github.com/vishnuharidas/inkgit) — A quick way to serve HTML content for websites from GitHub without requiring to access the website CMS, or go through static build pipelines. Built originally for publishing a [TIL page on my blog](https://iamvishnu.com/til), but kept as a generic tool for everyone.
+ * [**Inkgit🫟**](https://github.com/vishnuharidas/inkgit) — A quick way to serve frequently updated HTML content for websites without requiring to access the website CMS, or go through static build pipelines. Built originally for publishing a [TIL page on my blog](https://iamvishnu.com/til), but kept as a generic tool for everyone.
   
 
 Other things (mostly vibe-coded since I could):
